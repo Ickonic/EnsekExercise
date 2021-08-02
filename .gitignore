@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EnsekExerciseSolution/.vs/EnsekExerciseSolution
+/EnsekExerciseSolution/EnsekDAL/obj/Debug
+/EnsekExerciseSolution/EnsekMockData/obj/Debug
+/EnsekExerciseSolution/EnsekService/obj/Debug
+/EnsekExerciseSolution/EnsekTests/obj/Debug
+/EnsekExerciseSolution/EnsekWeb/obj/Debug
